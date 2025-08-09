@@ -2,4 +2,22 @@
 
 esta clase fue introducción al ramo y tutorial de como crear repositorio en github, tmb vimos que necesitariamos para trabajar durante el semestre 
 
-### apuntes sueltos que hice 
+#### apuntes sueltos que hice 
+
+spinoza
+
+primer encargo → repositorio github / subir apuntes clase 
+referentes programación
+
+md → markdown →  similar a html pero más simple 
+
+processing
+Golan Levin →  texto sobre ejercicios 
+Ada Loveclace → máquina analítica
+
+→ referentes relacionados al curso
+*revisar tesis Aarón Montoya its_ok 
+
+→ referente que trabaje con texto (esto quiere decir poema, chiste, discurso, libro)
+
+< https://www.estebanagosin.cl/mierror.html >
