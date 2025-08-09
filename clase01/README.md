@@ -21,4 +21,5 @@ Ada Loveclace → máquina analítica
 → referente que trabaje con texto (esto quiere decir poema, chiste, discurso, libro)
 
 <https://www.estebanagosin.cl/mierror.html>
+
 <https://www.smoothware.com/danny>
