@@ -23,3 +23,5 @@ Ada Loveclace → máquina analítica
 <https://www.estebanagosin.cl/mierror.html>
 
 <https://www.smoothware.com/danny>
+
+ en referentes de texto no sé si cuenta, pero tengo en mente la frase "tiene las luces prendidas, pero no hay nadie en la casa" que dijo mi amiga Kata por una anecdota que involucra un gato girando 
