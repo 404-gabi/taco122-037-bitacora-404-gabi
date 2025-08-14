@@ -54,6 +54,10 @@ int notaGatoEntera = 0;
 
 // con la función int() le quito los decimales a un numero
 
-para hacer una línea en processing, utilizo la función llamada line, donde debo decir, la coordenada x e y de un extremo y la coordenada del otro 
+para hacer una línea en processing, utilizo la función llamada line, donde debo decir, la coordenada x e y de un extremo y la coordenada del otro por ejemplo; se declara line(x1,y1,x2,y2)
 
-se declara line(x1,y1,x2,y2)
+line(10,20,80,60);
+line(30,80,35,5);
+
+la función Bezier es para curvas 
+ajustar tamaño lienzo size(400,600);
