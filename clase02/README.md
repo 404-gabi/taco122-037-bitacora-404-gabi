@@ -53,3 +53,7 @@ float notaGato = 6,19382942939;
 int notaGatoEntera = 0;
 
 // con la función int() le quito los decimales a un numero
+
+para hacer una línea en processing, utilizo la función llamada line, donde debo decir, la coordenada x e y de un extremo y la coordenada del otro 
+
+se declara line(x1,y1,x2,y2)
