@@ -17,7 +17,7 @@ el tipo de variables es un contenedor
 
 para crear caracteres uso la variable de tipo char 
 
-una variable guarda una informacion 
+una variable guarda una información 
 
 
 char letra = 'a';
