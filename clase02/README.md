@@ -41,3 +41,15 @@ int lasuma = 0;
 lasuma = a + b;
 
 print(lasuma);
+
+//existe un segundo tipo de variable numérica
+
+float es un punto flotante, ósea tiene comas 
+
+float notaGato = 6,19382942939;
+
+ // uno puede convertir float en int 
+ 
+int notaGatoEntera = 0;
+
+// con la función int() le quito los decimales a un numero
