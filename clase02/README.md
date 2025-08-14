@@ -70,3 +70,7 @@ ej: text("hola",300,500);
 para ajustar el tamaño del texto se debe hacer antes con textSize
 
 frameCount es clave
+
+*prox encargo con la frase que escogimos tiene que estar en processing
+shape primitives en processing 
+
