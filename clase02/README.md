@@ -24,9 +24,20 @@ char letra = 'a';
 
 print(letra);
 
-
 char numero = '1' ;
 
 print(numero);
 
 INT se utiliza para números enteros
+
+el tipo de variable se declara solo una vez
+
+int a = 17;
+
+int b = 12;
+
+int lasuma = 0;
+
+lasuma = a + b;
+
+print(lasuma);
