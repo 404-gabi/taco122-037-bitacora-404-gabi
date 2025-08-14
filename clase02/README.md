@@ -61,3 +61,11 @@ line(30,80,35,5);
 
 la función Bezier es para curvas 
 ajustar tamaño lienzo size(400,600);
+
+hay una función que se llama text para incluir texto en el canvas
+
+función text() más posiciónX y posiciónY
+
+ej: text("hola",300,500);
+para ajustar el tamaño del texto se debe hacer antes con textSize
+
