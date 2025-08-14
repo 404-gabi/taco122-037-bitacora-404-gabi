@@ -14,3 +14,5 @@ variables son números o datos
 se crean definiendo primero el tipo de variable 
 
 el tipo de variables es un contenedor 
+
+para crear caracteres uso la variable de tipo char 
