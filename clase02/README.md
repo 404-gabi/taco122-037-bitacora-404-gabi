@@ -28,3 +28,5 @@ print(letra);
 char numero = '1' ;
 
 print(numero);
+
+INT se utiliza para números enteros
