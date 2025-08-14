@@ -17,6 +17,7 @@ Golan Levin →  texto sobre ejercicios
 Ada Lovelace → máquina analítica
 
 → referentes relacionados al curso
+
 *revisar tesis Aarón Montoya its_ok 
 
 → referente que trabaje con texto (esto quiere decir poema, chiste, discurso, libro)
