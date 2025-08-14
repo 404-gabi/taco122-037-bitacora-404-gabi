@@ -21,5 +21,10 @@ una variable guarda una informacion
 
 
 char letra = 'a';
+
 print(letra);
 
+
+char numero = '1' ;
+
+print(numero);
