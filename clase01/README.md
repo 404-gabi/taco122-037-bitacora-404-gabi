@@ -23,7 +23,9 @@ Ada Lovelace → máquina analítica
 → referente que trabaje con texto (esto quiere decir poema, chiste, discurso, libro)
 
 <https://www.estebanagosin.cl/mierror.html>
+
 <https://www.smoothware.com/danny>
+
 <https://proyectoidis.org/leo-nunez/> referente que tengo muy en mente por la idea de organismos electrónicos 
 
  en referentes de texto no sé si cuenta, pero tengo en mente la frase "tiene las luces prendidas, pero no hay nadie en la casa" que dijo mi amiga Kata por una anecdota que involucra un gato girando 
