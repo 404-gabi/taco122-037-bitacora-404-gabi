@@ -69,3 +69,4 @@ función text() más posiciónX y posiciónY
 ej: text("hola",300,500);
 para ajustar el tamaño del texto se debe hacer antes con textSize
 
+frameCount es clave
