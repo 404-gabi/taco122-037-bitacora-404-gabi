@@ -26,6 +26,7 @@ Ada Lovelace → máquina analítica
 
 <https://www.smoothware.com/danny>
 
-<https://proyectoidis.org/leo-nunez/> referente que tengo muy en mente por la idea de organismos electrónicos 
+<https://proyectoidis.org/leo-nunez/> referente que tengo muy en mente por la idea de organismos electrónicos y este cruce entre lo orgánico y lo tecnológico como una especie de convivencia
 
  en referentes de texto no sé si cuenta, pero tengo en mente la frase "tiene las luces prendidas, pero no hay nadie en la casa" que dijo mi amiga Kata por una anecdota que involucra un gato girando 
+
