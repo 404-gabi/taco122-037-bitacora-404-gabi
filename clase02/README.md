@@ -12,3 +12,4 @@ shape primitives en processing
 mouseX esclave tmb
 
 **pendiente agregar lo demás d la clase 
+<https://processing.org/reference/String.html>
