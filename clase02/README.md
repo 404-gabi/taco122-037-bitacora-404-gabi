@@ -13,3 +13,5 @@ mouseX esclave tmb
 
 **pendiente agregar lo demás d la clase 
 <https://processing.org/reference/String.html>
+
+****AGREGAR TMB LO DE LA FRASE EN PROCESSING Y SUBIR CÓDIGO
