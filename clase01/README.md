@@ -32,3 +32,4 @@ Ada Lovelace → máquina analítica
 También hay una frase de Jean Cocteau q quizás es más interesante, que dice “El verdadero realismo consiste en revelar las cosas sorprendentes que la costumbre mantiene ocultas y nos impide ver.”
 
 VOY A ELEGIR LA PRIMERA NOMAS
+** MJ NO, ME HACE MÁS SENTIDO ALGO CON LA SEGUNDA A PESAR D SER MÁS PRETENCIOSA 
