@@ -6,8 +6,6 @@ void setup() {
 }
 
 void draw () {
-  // y aquí otras cosas
-  // con el color al inicio del draw borro el fondo
   background(46, 46, 46);
 
   //255, 252, 220
@@ -61,3 +59,4 @@ circle(mouseX, mouseY, 100);
   // sorprendentes que la costumbre mantiene ocultas
   // y nos impide ver
 }
+
