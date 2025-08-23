@@ -30,3 +30,5 @@ Ada Lovelace → máquina analítica
 
  en referentes de texto no sé si cuenta, pero tengo en mente algo que dijo la Kata sobre su gato "tiene las luces prendidas, pero no hay nadie en la casa"  la anecdota involucra un gato girando 
 También hay una frase de Jean Cocteau q quizás es más interesante, que dice “El verdadero realismo consiste en revelar las cosas sorprendentes que la costumbre mantiene ocultas y nos impide ver.”
+
+VOY A ELEGIR LA PRIMERA NOMAS
