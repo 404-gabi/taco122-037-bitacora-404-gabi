@@ -7,9 +7,7 @@ pure data
 
 
 
-shield data logger arduino 
-
-para recolectar datos sin tener que estar con el computador ahí 
+shield data logger arduino → para recolectar datos sin tener que estar con el computador ahí 
 
 
  clase de hoy .。.:*・°☆
