@@ -1,1 +1,1 @@
-
+// subir apuntes + ideas 
