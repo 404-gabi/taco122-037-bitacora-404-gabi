@@ -22,8 +22,6 @@
 
  cosas pendientes ⋆｡° ☆
 
-subir códigos // listo
-
 subir código motor paso a paso?
 
 conexion serial processing arduino // listo
