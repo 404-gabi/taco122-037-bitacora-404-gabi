@@ -14,5 +14,5 @@ trabajar en código binario
 **<ins>falta incluir texto, ya que requisito del proyecto es trabajar con palabras</ins> 
 
 ![fotoboceto](./imagenes/boceto.jpg)
-
+<img src="clase11/imagenes/boceto.jpg" width=50%>
 
