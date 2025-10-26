@@ -50,5 +50,6 @@ se me ocurrió que el grillar genere los haikus
 ¿Qué pasaría si el motivo recurrente (grillos) es el que suscita/produce estos haikus?
 quizás alguien ya lo hizo pero nolose...
 
+*sé hacer la conexión serial entre arduino y touchdesigner
 
 ![mono  pensando](./imagenes/monopensando.jpg)
