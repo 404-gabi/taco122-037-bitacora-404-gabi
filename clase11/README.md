@@ -50,4 +50,5 @@ se me ocurrió que el grillar genere los haikus
 ¿Qué pasaría si el motivo recurrente (grillos) es el que suscita/produce estos haikus?
 quizás alguien ya lo hizo pero nolose...
 
-¡[monopensando](./clase11/imagenes/monopensando.jpg)
+
+![monopensando](./imagenes/monopensando.jpg)
