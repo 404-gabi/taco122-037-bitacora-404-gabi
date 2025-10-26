@@ -3,11 +3,14 @@ la clase de hoy hablamos sobre las ideas de proyectos relacionados al curso y su
 
 IDEA 1 ⋆⭒˚｡⋆ 
 
-// revivir una idea del semestre pasado / [ejercicio Juan Downey](https://imported-antimony-2a2.notion.site/ejercicio-1-proyecto-electr-nico-1b7181213e17808a935feec4378c8fb5)
+// revivir una idea del semestre pasado / [ejercicio Juan Downey](https://imported-antimony-2a2.notion.site/ejercicio-1-proyecto-electr-nico-1b7181213e17808a935feec4378c8fb5) juntandolo con una entrega de interfaz donde habían dos ldr que controlaban la amplitud y frecuencia que eran afectados por sombras en movimiento [vídeo](https://youtu.be/20gY2LFdpXo)
 
-*podría trabajar con sombras de los árboles o cambiarlo por agua moviendose con un motor 
+
+*podría trabajar con sombras de los árboles, e ir registrando sonido en distintos lugares o cambiarlo por agua moviendose con un motor a modo de instrumento 
 
 necesitaría 2 arduinos // uno para el motor y otro para el [módulo multiplexor](https://afel.cl/products/modulo-multiplexor-cd74hc4067?srsltid=AfmBOorVeu3wy21e7VFYpzz-irFs-ix1ew7tZB59ta5vNJPLQ-QPA4D_) (16 salidas)
+
+// podría hacer una grilla de 4x4 con este, que los ldr se alteren con el movimiento del agua que se proyecta
 
 trabajar en código binario 
 
