@@ -13,6 +13,5 @@ trabajar en código binario
 
 **<ins>falta incluir texto, ya que requisito del proyecto es trabajar con palabras</ins> 
 
-![fotoboceto](./imagenes/boceto.jpg)
 <img src="https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/main/clase11/imagenes/boceto.jpg?raw=true" width=50%>
 
