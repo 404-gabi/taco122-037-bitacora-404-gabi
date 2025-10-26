@@ -3,4 +3,5 @@ la clase de hoy hablamos sobre las ideas de proyectos relacionados al curso y su
 
 PROYECTO 1 ⋆⭒˚｡⋆ 
 
-meudeus sigo mñana me voy a quedar dormida con nightcore de fondo
+// revivir una idea del semestre pasado / [ejercicio Juan Downey](https://imported-antimony-2a2.notion.site/ejercicio-1-proyecto-electr-nico-1b7181213e17808a935feec4378c8fb5)
+
