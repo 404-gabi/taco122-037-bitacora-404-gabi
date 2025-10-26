@@ -13,6 +13,6 @@ trabajar en código binario
 
 **<ins>falta incluir texto, ya que requisito del proyecto es trabajar con palabras</ins> 
 
-![fotoboceto](./imagenes/boceto.jpg)
+![foto boceto](./imagenes/boceto.jpg)
 
 
