@@ -51,4 +51,4 @@ se me ocurrió que el grillar genere los haikus
 quizás alguien ya lo hizo pero nolose...
 
 
-![monopensando](./imagenes/monopensando.jpg)
+![mono  pensando](./imagenes/monopensando.jpg)
