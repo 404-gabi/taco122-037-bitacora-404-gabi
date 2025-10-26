@@ -50,4 +50,4 @@ se me ocurrió que el grillar genere los haikus
 ¿Qué pasaría si el motivo recurrente (grillos) es el que suscita/produce estos haikus?
 quizás alguien ya lo hizo pero nolose...
 
-<img src="https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/ec146267f5b1495318124c6a7f16b177184a1f92/clase11/imagenes/71f1a05875fa7238fb1c9bc425fc4420.jpg" width=50%>
+<img src="https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/main/clase11/imagenes/71f1a05875fa7238fb1c9bc425fc4420.jpg?raw=true" width=50%>
