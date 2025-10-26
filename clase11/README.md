@@ -26,7 +26,7 @@ trabajar en base a una cita de un texto como pie forzado
 estaba leyendo "aceleracionismo: estrategias para una transición hacia el postcapitalismo" x curiosidad y se me apareció una cita que se hacía de Ludwig Wittgenstein, Investigaciones filosóficas (1988) ddonde dice "¡No es un algo, pero no es una nada tampoco!" y antes de eso se mencionaba "Una rueda que pueda girar sin que nada se mueva con ella, no forma parte del mecanismo" y me imaginé de alguna manera ese dispositivo / objeto, con una pantalla lcd, terciado, y una especie de circuito con la rueda que no mueva algo
 
 
-IDEA 2 ⋆⭒˚｡⋆ 
+IDEA 3 ⋆⭒˚｡⋆ 
 
 registrar sonido en el cerro san cristobal, en base a una caminata cerca de las 21:00 donde sólo escuché grillos, en el camino hacia el parque de la infancia pensé en qué podría dejar un arduino o algo registrando sonido por un breve momento
 
@@ -50,3 +50,4 @@ se me ocurrió que el grillar genere los haikus
 ¿Qué pasaría si el motivo recurrente (grillos) es el que suscita/produce estos haikus?
 quizás alguien ya lo hizo pero nolose...
 
+¡[monopensando](./clase11/imagenes/monopensando.jpg)
