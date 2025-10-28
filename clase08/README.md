@@ -1,1 +1,3 @@
-ola tengo q subir los apuntes y codigos se me quedó el compu en la facultad xd 
+[pato girando como si nada](https://youtu.be/te6H_A0ZcRI)
+
+motor paso a paso utilizado 
