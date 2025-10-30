@@ -1,6 +1,7 @@
 **IDEA 1 ⋆⭒˚｡⋆** 
 
 **concepto:** generar sonido a partir de movimiento del agua/luz mediante LDR (arduino) y una onda sinusoidal desde processing 
+// PROBLEMA: NOTIENE PALABRAS XD ................................
 
 
 **diagrama de flujo:**
