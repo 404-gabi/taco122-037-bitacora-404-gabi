@@ -55,6 +55,7 @@ Software: Arduino IDE
 
 
 Boceto de montaje:
+
 <img src="https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/17999c72a721e1837cdd19f335e1f91338e21af1/clase12/imagenes/IMG_1559.jpeg" width=50%>
 
 
@@ -80,5 +81,6 @@ Hardware: Arduino UNO ó nano, motor, circuito analogo, pantalla LCD, sensor ult
 Software: Arduino IDE
 
 Boceto de montaje:
+
 <img src="https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/17999c72a721e1837cdd19f335e1f91338e21af1/clase12/imagenes/IMG_1556.jpeg" width=50%>
 
