@@ -24,7 +24,7 @@ Hardware: Arduino Uno (x2) uno para controlar los motores y otro el multiplexor
  
 Software: Arduino IDE, Processing o Pure data 
 
-Boceto de montaje: [bocetodemontaje]([https://imported-antimony-2a2.notion.site/ejercicio-1-proyecto-electr-nico-1b7181213e17808a935feec4378c8fb5](https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/d45b898252e6cb106dcfa17d38da2796205decb9/clase12/imagenes/IMG_1558.jpeg)
+Boceto de montaje: [bocetodemontaje](https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/d45b898252e6cb106dcfa17d38da2796205decb9/clase12/imagenes/IMG_1558.jpeg)
 
 
 
