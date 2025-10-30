@@ -45,22 +45,22 @@ grabación de sonidos de grillos (cri cri) > procesamiento del sonido en arduino
 
 x default pantalla OLED con un grillo pixelado
 
-materialidades: madera terciada (caja de 20x27x10cm) 
-                (ó acrílico) 
-                pantalla OLED (1) 
-                pantalla LCD 16 x 2
-                cables 
+materialidades: madera terciada (caja de 20x27x10cm), ó acrilico, pantalla OLED (1), pantalla LCD 16 X 2, cables (omgg)
+
 
 Hardware: Arduino uno, módulo de micrófono?, módulo de mp3?, pantalla OLED, pantalla LCD, salida de audio 
 
+
 Software: Arduino IDE
 
+
 Boceto de montaje:
+<img src="https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/17999c72a721e1837cdd19f335e1f91338e21af1/clase12/imagenes/IMG_1559.jpeg" width=50%>
 
 
 
+IDEA 3 ⋆⭒˚｡⋆ 
 
-IDEA 3 ⋆⭒˚｡⋆ (fácil?)
 concepto: trabajar en base a una cita de un libro, imaginando desde las palabras, qué es algo y qué es nada
 
 dice:
@@ -69,23 +69,16 @@ para luego decir:
 > “¡No es un algo, pero no es una nada tampoco!” Ludwig Wittgenstein, Investigaciones filosóficas 1998, citado en “aceleracionismo: estrategias para una transición hacia el postcapitalismo” p. 169
 
 diagrama de flujo:
+// podría tener un sensor ultrasonico y que se mueva cdo pase alguien
 
-materialidades: madera terciado
-                hilo corrido zincado
-                cables
-                pantalla LCD 16x2 
-                Motor + rueda
-                circuito análogo 555 + 4017
-                sensor ultrasónico 
+pasa alguien > sensor ultrasonico se activa waos > se mueve la rueda > no mueve absolutamente ninguna cosa 
 
-Hardware: Arduino UNO ó nano
-          Motor
-          Circuito análogo
-          Pantalla LCD 
-          Sensor ultrasónico
-
+materialidades: madera terciado, hilo corrido zincado, cables (omgg), pantalla LCD 16X2, Motor + rueda, circuito analogo 555 + 4017, sensor ultrasonico
+        
+Hardware: Arduino UNO ó nano, motor, circuito analogo, pantalla LCD, sensor ultrasonico
+    
 Software: Arduino IDE
 
 Boceto de montaje:
-
+<img src="https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/17999c72a721e1837cdd19f335e1f91338e21af1/clase12/imagenes/IMG_1556.jpeg" width=50%>
 
