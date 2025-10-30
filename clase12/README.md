@@ -26,6 +26,7 @@ Software: Arduino IDE, Processing o Pure data
 
 Boceto de montaje: ![bocetodemontaje](https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/d45b898252e6cb106dcfa17d38da2796205decb9/clase12/imagenes/IMG_1558.jpeg)
 
+<img src="https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/d45b898252e6cb106dcfa17d38da2796205decb9/clase12/imagenes/IMG_1558.jpeg" width=50%>
 
 
 
