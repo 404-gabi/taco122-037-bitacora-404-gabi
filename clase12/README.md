@@ -24,23 +24,21 @@ Hardware: Arduino Uno (x2) uno para controlar los motores y otro el multiplexor
  
 Software: Arduino IDE, Processing o Pure data 
 
-Boceto de montaje: ![bocetodemontaje](https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/d45b898252e6cb106dcfa17d38da2796205decb9/clase12/imagenes/IMG_1558.jpeg)
+Boceto de montaje:
 
 <img src="https://github.com/404-gabi/taco122-037-bitacora-404-gabi/blob/d45b898252e6cb106dcfa17d38da2796205decb9/clase12/imagenes/IMG_1558.jpeg" width=50%>
 
 
 
+IDEA 2 ⋆⭒˚｡⋆ 
 
-
-
-
-
-IDEA 2 ⋆⭒˚｡⋆ (intermedio)
 concepto: que la estridulación de los grillos haga haikus, bajo la premisa de que son un motivo recurrente de estos poemas, pero qué pasaría si el motivo es el que suscita estos versos desde los rincones de la urbanización
 
 // a partir de observaciones en el cerro san Cristóbal, donde a partir de cierta hora solo se escuchan grillos 
 
+
 ref: Computerized Japanese Haiku / cybernetic serendipity
+
 
 diagrama de flujo: 
 grabación de sonidos de grillos (cri cri) > procesamiento del sonido en arduino, puede convertirse en números? en base a amplitud, ritmo > se generan haikus a partir de esos datos/sonido mediante palabras aleatorias guardadas en arduino > aparecen en el LCD > tmb salida de audio (audifonos?) 
