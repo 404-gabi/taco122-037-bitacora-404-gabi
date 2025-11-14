@@ -7,7 +7,6 @@
 
 **diagrama de flujo:**
 
-// pendiente diagramar en mermaid chart
 
 luz prendida x default 
 
