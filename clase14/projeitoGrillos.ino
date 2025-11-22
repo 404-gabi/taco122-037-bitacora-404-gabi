@@ -98,7 +98,7 @@ void setup() {
   lcd.setCursor(0, 0);
   lcd.print("projeito grillo");
   lcd.setCursor(0, 1);
-  lcd.print("presionar boton :)");
+  lcd.print("presiona boton:)");
 }
 
 void loop() {
@@ -111,7 +111,7 @@ void loop() {
     lcd.clear();
     display.clearDisplay();
     lcd.setCursor(0, 0);
-    lcd.print("presiona boton");
+    lcd.print("presiona boton:)");
   }
 }
 
