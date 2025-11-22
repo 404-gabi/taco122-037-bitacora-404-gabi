@@ -96,7 +96,7 @@ void setup() {
   randomSeed(analogRead(A0)); // semilla aleatoria para que los haikus no se repitan siempre igual
 
   lcd.setCursor(0, 0);
-  lcd.print("grillos recitan poesía");
+  lcd.print("projeito grillo");
   lcd.setCursor(0, 1);
   lcd.print("presionar boton :)");
 }
@@ -111,7 +111,7 @@ void loop() {
     lcd.clear();
     display.clearDisplay();
     lcd.setCursor(0, 0);
-    lcd.print("Presiona boton");
+    lcd.print("presiona boton");
   }
 }
 
@@ -159,7 +159,7 @@ void leerVerso(const char *verso) {
   lcd.print(buffer);
 }
 
-/*
+
 // aki iría la animación OLED si tuviera una jejej
 
 void animarOLED() {
@@ -173,4 +173,3 @@ void animarOLED() {
   display.display();
 }
 
-*/
