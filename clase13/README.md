@@ -19,3 +19,4 @@ podría hacer un grillo en una pantalla oled cmo si estuviera escribiendo en un 
 / tmb dibujé un grillo, el otro día me encontré uno y le saqué foto 
 
 // tmb hice algo rápido relacionado a lo que quiero hacer con un buzzer y le pedí ayuda a chatyipiti
+// el vídeo va a ir en otro n de clase
