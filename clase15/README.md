@@ -21,3 +21,5 @@ quiero leer: https://www.in-vacua.com/chart_2004.pdf
 https://poetic.computer/readings
 
 https://monoskop.org/images/5/55/Code_Poems_2012.pdf
+
+https://www-wired-com.translate.goog/story/the-math-of-how-crickets-starlings-and-neurons-sync-up/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
