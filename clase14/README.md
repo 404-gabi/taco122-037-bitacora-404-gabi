@@ -7,3 +7,5 @@ pero en un futuro me gustaría que sean grillos de lugares especificos, ya que a
 
 
 tmb tengo que agregar el código de algo que ya hice e ir buscando palabras recurrentes en haikus como el ejemplo de cybernetic serendipity con esa selección, quizás veo que puedo sacar de ahí
+
+vídeo demostración https://youtu.be/l32SsihOVTA
