@@ -9,4 +9,4 @@ me falta juntar el código que ya tenía con el del dfplayermini
 k felicidad....
 
 
-<script src="https://gist.github.com/JFernandoG1/61674066f0d67a28d8d3e5f37387bb24.js"></script>
+https://gist.github.com/JFernandoG1/61674066f0d67a28d8d3e5f37387bb24#file-dfplayer_mini-ino
