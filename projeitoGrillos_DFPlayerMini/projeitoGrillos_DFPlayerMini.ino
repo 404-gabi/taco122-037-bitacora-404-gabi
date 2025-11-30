@@ -1,5 +1,5 @@
 /*
- proyecto grillos recitando haikus !
+ proyecto grillos grillando haikus !
 
  ⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⢻⣿⡗⢶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣄
@@ -183,6 +183,7 @@ void leerVerso(const char *verso) {
 
 
 // aki iría la animación OLED si tuviera una jejej
+// ok d momento esta parte es inútil la vd, quizás ponga la animación en un arduino nano
 
 void animarOLED() {
   for (int i = 0; i < 12; i++) {
